@@ -296,7 +296,7 @@ This project is open source and available under the [MIT License](LICENSE).
 **Hilda Chepkirui**
 - Electronic and Computer Engineer
 - GitHub: [@Hilda-Baraiywo](https://github.com/Hilda-Baraiywo)
-- Email: baraiywohilda181@gmail.com
+- Email: baraiywohilda@gmail.com
 
 ## 🤝 Contributing
 
